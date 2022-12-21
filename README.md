@@ -3,16 +3,27 @@
 **CONTENT
 
 Abstract
+
 Introduction
+
 Aim and Objective
+
 Methodology
+
 Data Processing
+
 EDA
+
 Modelling
+
 Challenges
+
 Conclusion & Recommendation
+
 Summary
+
 Workflow Summary
+
 Future Improvement
 
 
@@ -43,7 +54,7 @@ The main objective of this project is to build machine learning models capable o
 The data is about the US Politics and revolved around the past president Donald Trump.
 From the Unigram Analysis, we could see that the top fake word used was ‘said’ whereas in the true news it didn’t appear in the top 20 words. This is most likely due to false news misquoting people or taking what the speaker said out of context.
 Also, looking at the bigram of fake news, we can see that Donald trump was mostly referred to as ‘mr trump’ and same could be seen with ‘mrs Clinton’ and ‘mr Obama’. This is most likely a means of disrespect or sarcasm to the discussion.
-The New York Times published more fake news than true news.                 	     14      
+The New York Times published more fake news than true news.                 	    
 
 **Summary
 
